@@ -20,9 +20,12 @@
 ---
 
 ## 📸 **体験イメージ**
+[Webサービス系](https://github.com/TomoProgrammingDayori/great-minds-feedback/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/01_web%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9_%E4%BE%8B.png)
 
-（ここにスクショ or GIFを入れる）
-*例：入力画面と、3人のコメントが並ぶ出力画面*
+[プロダクト系](https://github.com/TomoProgrammingDayori/great-minds-feedback/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/02_%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88_%E4%BE%8B.png)
+
+[ストーリー系](https://github.com/TomoProgrammingDayori/great-minds-feedback/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/03_%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC_%E4%BE%8B.png)
+
 
 ---
 
