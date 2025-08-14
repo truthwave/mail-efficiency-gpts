@@ -1,4 +1,4 @@
-<p>
+<p align="center">
 <img width="1536" height="1024" alt="偉人の知恵で、アイデアを磨き上げる" src="https://github.com/user-attachments/assets/794d5dbe-bdad-4ce3-9888-18cea388934a" />
   
 </p>
@@ -63,3 +63,15 @@
 
 ➡️ **[このGPTを使ってみる](https://chatgpt.com/g/g-689444dcaed081918af943eff5864b51-wei-ren-nixun-ku-hisiyonmo-kinoxiang-tan-shi)**
 *※試した瞬間から、あなたの発想は変わります。*
+
+---
+
+## 🧑‍💻 作者
+
+[ともプログラム便り](https://github.com/TomoProgrammingDayori)
+
+ポートフォリオやAIツール開発に関する情報もぜひご覧ください！
+
+
+## お気軽にご連絡ください
+[📩 ご相談・お見積もりはこちら](mailto:realmadrid71214591@gmail.com)
