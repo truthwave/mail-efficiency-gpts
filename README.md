@@ -1,6 +1,6 @@
 <p align="center">
-<img width="1536" height="1024" alt="偉人の知恵で、アイデアを磨き上げる" src="https://github.com/user-attachments/assets/794d5dbe-bdad-4ce3-9888-18cea388934a" />
-  
+<img width="1536" height="1024" alt="偉人の知恵で、アイデアを磨き上げる" src="https://github.com/user-attachments/assets/4a978e6c-1c86-46fe-8526-b6c7dd156010" />
+
 </p>
 
 # **偉人が、あなたの参謀になる。**
