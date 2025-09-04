@@ -18,11 +18,30 @@
 
 ---
 
+## プロジェクト概要
+![スライド2](https://github.com/TomoAIDayori/mail-efficiency-gpts/blob/main/%E8%B3%87%E6%96%99/%E5%81%89%E4%BA%BA%E3%81%AB%E8%A8%8A%E3%81%8F%EF%BC%9A%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E7%A3%A8%E3%81%8D%E3%81%AE%E7%9B%B8%E8%AB%87%E5%AE%A4/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%892.PNG)
+![スライド3](https://github.com/TomoAIDayori/mail-efficiency-gpts/blob/main/%E8%B3%87%E6%96%99/%E5%81%89%E4%BA%BA%E3%81%AB%E8%A8%8A%E3%81%8F%EF%BC%9A%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E7%A3%A8%E3%81%8D%E3%81%AE%E7%9B%B8%E8%AB%87%E5%AE%A4/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%893.PNG)
+![スライド4](https://github.com/TomoAIDayori/mail-efficiency-gpts/blob/main/%E8%B3%87%E6%96%99/%E5%81%89%E4%BA%BA%E3%81%AB%E8%A8%8A%E3%81%8F%EF%BC%9A%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E7%A3%A8%E3%81%8D%E3%81%AE%E7%9B%B8%E8%AB%87%E5%AE%A4/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%894.PNG)
+![スライド5](https://github.com/TomoAIDayori/mail-efficiency-gpts/blob/main/%E8%B3%87%E6%96%99/%E5%81%89%E4%BA%BA%E3%81%AB%E8%A8%8A%E3%81%8F%EF%BC%9A%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E7%A3%A8%E3%81%8D%E3%81%AE%E7%9B%B8%E8%AB%87%E5%AE%A4/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%895.PNG)
+
+---
+
 ## 🎯 特徴
 - **シンプル操作**：コピー＆ペーストでそのまま使える  
 - **高品質な文面**：冒頭に感謝・結びに次ステップなど、即実務で使える形式  
 - **汎用性抜群**：顧客対応、フォローアップ、お礼、日程調整までカバー  
 - **テンプレート集**（オプション)でさらに効率化  
+
+---
+
+## 📸 **体験イメージ**
+![デモ動画](https://github.com/TomoAIDayori/mail-efficiency-gpts/blob/main/%E8%B3%87%E6%96%99/%E3%83%87%E3%83%A2%E5%8B%95%E7%94%BB.gif)
+
+![打ち合わせ後のお礼メール](https://github.com/TomoAIDayori/mail-efficiency-gpts/blob/main/%E8%B3%87%E6%96%99/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/%E6%89%93%E3%81%A1%E5%90%88%E3%82%8F%E3%81%9B%E5%BE%8C%E3%81%AE%E3%81%8A%E7%A4%BC%E3%83%A1%E3%83%BC%E3%83%AB.png)
+
+![提案後のフォローアップメール](https://github.com/TomoAIDayori/mail-efficiency-gpts/blob/main/%E8%B3%87%E6%96%99/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/%E6%8F%90%E6%A1%88%E5%BE%8C%E3%81%AE%E3%83%95%E3%82%A9%E3%83%AD%E3%83%BC%E3%82%A2%E3%83%83%E3%83%97%E3%83%A1%E3%83%BC%E3%83%AB.png)
+
+![日程調整依頼メール](http://github.com/TomoAIDayori/mail-efficiency-gpts/blob/main/%E8%B3%87%E6%96%99/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/%E6%97%A5%E7%A8%8B%E8%AA%BF%E6%95%B4%E4%BE%9D%E9%A0%BC%E3%83%A1%E3%83%BC%E3%83%AB.png)
 
 ---
 
