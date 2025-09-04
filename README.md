@@ -19,10 +19,10 @@
 ---
 
 ## プロジェクト概要
-![スライド2](https://github.com/TomoAIDayori/mail-efficiency-gpts/blob/main/%E8%B3%87%E6%96%99/%E5%81%89%E4%BA%BA%E3%81%AB%E8%A8%8A%E3%81%8F%EF%BC%9A%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E7%A3%A8%E3%81%8D%E3%81%AE%E7%9B%B8%E8%AB%87%E5%AE%A4/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%892.PNG)
-![スライド3](https://github.com/TomoAIDayori/mail-efficiency-gpts/blob/main/%E8%B3%87%E6%96%99/%E5%81%89%E4%BA%BA%E3%81%AB%E8%A8%8A%E3%81%8F%EF%BC%9A%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E7%A3%A8%E3%81%8D%E3%81%AE%E7%9B%B8%E8%AB%87%E5%AE%A4/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%893.PNG)
-![スライド4](https://github.com/TomoAIDayori/mail-efficiency-gpts/blob/main/%E8%B3%87%E6%96%99/%E5%81%89%E4%BA%BA%E3%81%AB%E8%A8%8A%E3%81%8F%EF%BC%9A%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E7%A3%A8%E3%81%8D%E3%81%AE%E7%9B%B8%E8%AB%87%E5%AE%A4/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%894.PNG)
-![スライド5](https://github.com/TomoAIDayori/mail-efficiency-gpts/blob/main/%E8%B3%87%E6%96%99/%E5%81%89%E4%BA%BA%E3%81%AB%E8%A8%8A%E3%81%8F%EF%BC%9A%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E7%A3%A8%E3%81%8D%E3%81%AE%E7%9B%B8%E8%AB%87%E5%AE%A4/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%895.PNG)
+![スライド2](https://github.com/TomoAIDayori/mail-efficiency-gpts/blob/main/%E8%B3%87%E6%96%99/%E3%83%A1%E3%83%BC%E3%83%AB%E5%8A%B9%E7%8E%87%E5%8C%96GPTs/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%892.PNG)
+![スライド3](https://github.com/TomoAIDayori/mail-efficiency-gpts/blob/main/%E8%B3%87%E6%96%99/%E3%83%A1%E3%83%BC%E3%83%AB%E5%8A%B9%E7%8E%87%E5%8C%96GPTs/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%893.PNG)
+![スライド4](https://github.com/TomoAIDayori/mail-efficiency-gpts/blob/main/%E8%B3%87%E6%96%99/%E3%83%A1%E3%83%BC%E3%83%AB%E5%8A%B9%E7%8E%87%E5%8C%96GPTs/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%894.PNG)
+![スライド5](https://github.com/TomoAIDayori/mail-efficiency-gpts/blob/main/%E8%B3%87%E6%96%99/%E3%83%A1%E3%83%BC%E3%83%AB%E5%8A%B9%E7%8E%87%E5%8C%96GPTs/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%895.PNG)
 
 ---
 
