@@ -41,7 +41,7 @@
 
 ![提案後のフォローアップメール](https://github.com/TomoAIDayori/mail-efficiency-gpts/blob/main/%E8%B3%87%E6%96%99/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/%E6%8F%90%E6%A1%88%E5%BE%8C%E3%81%AE%E3%83%95%E3%82%A9%E3%83%AD%E3%83%BC%E3%82%A2%E3%83%83%E3%83%97%E3%83%A1%E3%83%BC%E3%83%AB.png)
 
-![日程調整依頼メール](http://github.com/TomoAIDayori/mail-efficiency-gpts/blob/main/%E8%B3%87%E6%96%99/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/%E6%97%A5%E7%A8%8B%E8%AA%BF%E6%95%B4%E4%BE%9D%E9%A0%BC%E3%83%A1%E3%83%BC%E3%83%AB.png)
+![日程調整依頼メール](https://github.com/TomoAIDayori/mail-efficiency-gpts/blob/main/%E8%B3%87%E6%96%99/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/%E6%97%A5%E7%A8%8B%E8%AA%BF%E6%95%B4%E4%BE%9D%E9%A0%BC%E3%83%A1%E3%83%BC%E3%83%AB.png)
 
 ---
 
