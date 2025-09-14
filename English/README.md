@@ -1,6 +1,6 @@
 <p align="center">
+<img width="1536" height="1024" alt="メール効率化GPTs" src="https://github.com/user-attachments/assets/eae4abfc-ad1f-4ede-a53c-4b7e961e5f59" />
 
-<img width="1536" height="1024" alt="Hone your ideas with wisdom from great minds" src="https://github.com/user-attachments/assets/cb45d091-1188-474e-98d8-513f0ee47857" />
 
 </p>
 
