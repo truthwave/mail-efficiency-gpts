@@ -55,7 +55,7 @@ Want to reclaim “24 hours of free time per month” for your business?
 
 ## 🧑‍💻 Author
 
-[Tomo AI Newsletter](https://github.com/TomoAIDayori)
+**[Truth Wave ― 真理の波](https://github.com/truthwave)**  
 
 Check out my portfolio and AI tool development updates too!
 
