@@ -21,7 +21,7 @@
 ## プロジェクト概要
 [スライド資料はこちら](https://github.com/truthwave/mail-efficiency-gpts/tree/main/%E8%B3%87%E6%96%99/%E3%83%A1%E3%83%BC%E3%83%AB%E5%8A%B9%E7%8E%87%E5%8C%96GPTs)
 
-[動画資料はこちら](https://youtu.be/oNBut6TecgU)
+[動画資料はこちら](https://youtu.be/2eIHPLVBIg4)
 
 ---
 
