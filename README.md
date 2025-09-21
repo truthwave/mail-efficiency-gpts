@@ -19,9 +19,9 @@
 ---
 
 ## プロジェクト概要
-[スライド資料はこちら](https://github.com/truthwave/mail-efficiency-gpts/tree/main/%E8%B3%87%E6%96%99/%E3%83%A1%E3%83%BC%E3%83%AB%E5%8A%B9%E7%8E%87%E5%8C%96GPTs)
+#### [スライド資料はこちら](https://github.com/truthwave/mail-efficiency-gpts/tree/main/%E8%B3%87%E6%96%99/%E3%83%A1%E3%83%BC%E3%83%AB%E5%8A%B9%E7%8E%87%E5%8C%96GPTs)
 
-[動画資料はこちら](https://youtu.be/MfXPDFgx4UI)
+#### [動画資料はこちら](https://youtu.be/MfXPDFgx4UI)
 
 ---
 
@@ -36,11 +36,8 @@
 ## 📸 **体験イメージ**
 ![デモ動画](https://github.com/TomoAIDayori/mail-efficiency-gpts/blob/main/%E8%B3%87%E6%96%99/%E3%83%87%E3%83%A2%E5%8B%95%E7%94%BB.gif)
 
-![打ち合わせ後のお礼メール](https://github.com/TomoAIDayori/mail-efficiency-gpts/blob/main/%E8%B3%87%E6%96%99/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/%E6%89%93%E3%81%A1%E5%90%88%E3%82%8F%E3%81%9B%E5%BE%8C%E3%81%AE%E3%81%8A%E7%A4%BC%E3%83%A1%E3%83%BC%E3%83%AB.png)
+### [スクリーンショットはこちら](https://github.com/truthwave/mail-efficiency-gpts/tree/main/%E8%B3%87%E6%96%99/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88)
 
-![提案後のフォローアップメール](https://github.com/TomoAIDayori/mail-efficiency-gpts/blob/main/%E8%B3%87%E6%96%99/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/%E6%8F%90%E6%A1%88%E5%BE%8C%E3%81%AE%E3%83%95%E3%82%A9%E3%83%AD%E3%83%BC%E3%82%A2%E3%83%83%E3%83%97%E3%83%A1%E3%83%BC%E3%83%AB.png)
-
-![日程調整依頼メール](https://github.com/TomoAIDayori/mail-efficiency-gpts/blob/main/%E8%B3%87%E6%96%99/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/%E6%97%A5%E7%A8%8B%E8%AA%BF%E6%95%B4%E4%BE%9D%E9%A0%BC%E3%83%A1%E3%83%BC%E3%83%AB.png)
 
 ---
 
