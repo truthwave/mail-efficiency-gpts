@@ -62,6 +62,3 @@ Check out my portfolio and AI tool development updates too!
 
 ## Feel free to reach out
 [📩 Contact for Consultations & Quotes](mailto:realmadrid71214591@gmail.com)
-
-
-Translated with DeepL.com (free version)
