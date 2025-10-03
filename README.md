@@ -1,16 +1,16 @@
-<p align="center">
-
-<img width="1536" height="1024" alt="偉人の知恵で、アイデアを磨き上げる" src="https://github.com/user-attachments/assets/cb45d091-1188-474e-98d8-513f0ee47857" />
-
-</p>
-
 # 📌 メール効率化GPTs
 
 > メールに奪われるな。
 > 言葉に縛られるな。
 > 残すべきは、時間だ。
 
----
+<p align="center">
+
+<img width="1536" height="1024" alt="偉人の知恵で、アイデアを磨き上げる" src="https://github.com/user-attachments/assets/cb45d091-1188-474e-98d8-513f0ee47857" />
+
+</p>
+
+
 
 ## 🧠 未来を取り戻すために
 毎日のメールに、どれだけの時間を失っているだろうか。
