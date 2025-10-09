@@ -1,4 +1,4 @@
-#📌 Email Efficiency GPTs
+# 📌 Email Efficiency GPTs
 
 > Don't let email consume you.
 > Don't be bound by words.
