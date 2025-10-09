@@ -30,11 +30,6 @@ It's a device to reclaim your focus and breathing room.
 
 ---
 
-## 📸 **Experience Overview**
-
-
----
-
 ## ✨ Experience
 - Transform lengthy emails into polished messages instantly.
 - Follow up after proposals.  
