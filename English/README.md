@@ -32,6 +32,8 @@ It's a device to reclaim your focus and breathing room.
 
 ## 📸Experience Image
 
+![Demo](https://github.com/truthwave/mail-efficiency-gpts/blob/main/English/Demo%20Movie.gif)
+
 ---
 
 ## ✨ Experience
