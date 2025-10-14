@@ -22,7 +22,6 @@
 
 ---
 
-
 ## プロジェクト概要
 [![【1日30時間の自由】AIがあなたのメール業務を“秒で”終わらせます｜メール効率化GPTs](https://github.com/user-attachments/assets/01f90e1c-2ff7-4f44-a1cb-1a7172f77c46)](https://youtu.be/MfXPDFgx4UI)
 
