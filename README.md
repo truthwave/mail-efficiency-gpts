@@ -21,7 +21,6 @@
 あなたの集中と余白を取り戻す装置です。
 
 ---
-<img width="1280" height="720" alt="メール効率化" src="https://github.com/user-attachments/assets/01f90e1c-2ff7-4f44-a1cb-1a7172f77c46" />
 
 
 ## プロジェクト概要
