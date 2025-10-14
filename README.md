@@ -25,7 +25,7 @@
 ## プロジェクト概要
 [![【1日30時間の自由】AIがあなたのメール業務を“秒で”終わらせます｜メール効率化GPTs](https://github.com/user-attachments/assets/01f90e1c-2ff7-4f44-a1cb-1a7172f77c46)](https://youtu.be/MfXPDFgx4UI)
 
-#### [スライド資料はこちら](https://github.com/truthwave/mail-efficiency-gpts/tree/main/%E8%B3%87%E6%96%99/%E3%83%A1%E3%83%BC%E3%83%AB%E5%8A%B9%E7%8E%87%E5%8C%96GPTs)
+#### [スライド資料はこちら](https://github.com/truthwave/mail-efficiency-gpts/blob/main/%E8%B3%87%E6%96%99/%E3%83%A1%E3%83%BC%E3%83%AB%E5%8A%B9%E7%8E%87%E5%8C%96GPTs.pdf)
 
 
 ---
