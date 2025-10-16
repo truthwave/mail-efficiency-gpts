@@ -5,9 +5,7 @@
 > 残すべきは、時間だ。
 
 <p align="center">
-
-<img width="1536" height="1024" alt="偉人の知恵で、アイデアを磨き上げる" src="https://github.com/user-attachments/assets/cb45d091-1188-474e-98d8-513f0ee47857" />
-
+<img width="1536" height="1024" alt="メール (1)" src="https://github.com/user-attachments/assets/1ba21d57-d049-4e88-b9c8-8e5af9d800dd" />
 </p>
 
 ---
