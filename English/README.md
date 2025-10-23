@@ -5,7 +5,7 @@
 > What matters is time.
 
 <p align="center">
-<img width="1536" height="1024" alt="メール (2)" src="https://github.com/user-attachments/assets/dbaef64d-2573-491f-a111-7aa7d30de0bf" />
+<img width="1536" height="1024" alt="メール" src="https://github.com/user-attachments/assets/6a70eaad-3a18-4889-ad31-92afc42c2281" />
 </p>
 
 ---
