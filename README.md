@@ -5,7 +5,7 @@
 > 残すべきは、時間だ。
 
 <p align="center">
-<img width="1536" height="1024" alt="メール (1)" src="https://github.com/user-attachments/assets/1ba21d57-d049-4e88-b9c8-8e5af9d800dd" />
+<img width="1536" height="1024" alt="メール" src="https://github.com/user-attachments/assets/b86b0eeb-7019-461f-813a-af039b346a84" />
 </p>
 
 ---
