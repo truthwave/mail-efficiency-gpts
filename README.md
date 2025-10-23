@@ -10,9 +10,6 @@
 
 ---
 
-<img width="1536" height="1024" alt="メール (2)" src="https://github.com/user-attachments/assets/bf8ae371-d7e3-4300-ae02-8b4975ecf2f2" />
-
-
 ## 🧠 未来を取り戻すために
 毎日のメールに、どれだけの時間を失っているだろうか。
 10分の作業が、1分で終わるとしたら？
