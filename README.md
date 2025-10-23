@@ -19,7 +19,6 @@
 あなたの集中と余白を取り戻す装置です。
 
 ---
-<img width="1536" height="1024" alt="メール" src="https://github.com/user-attachments/assets/b37fe976-8329-4313-9d7e-0b65b50f3e68" />
 
 ## プロジェクト概要
 [![【1日30時間の自由】AIがあなたのメール業務を“秒で”終わらせます｜メール効率化GPTs](https://github.com/user-attachments/assets/b37fe976-8329-4313-9d7e-0b65b50f3e68)](https://youtu.be/MfXPDFgx4UI)
