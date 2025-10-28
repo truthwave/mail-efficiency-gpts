@@ -9,7 +9,6 @@
 </p>
 
 ---
-<img width="1280" height="720" alt="メール (1)" src="https://github.com/user-attachments/assets/3c3fb426-d809-40f1-953e-c7eefb3f589d" />
 
 ## Project Overview
 
