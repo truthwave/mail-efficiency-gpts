@@ -9,6 +9,15 @@
 </p>
 
 ---
+<img width="1280" height="720" alt="メール (1)" src="https://github.com/user-attachments/assets/3c3fb426-d809-40f1-953e-c7eefb3f589d" />
+
+## Project Overview
+
+[![【30 Hours of Freedom Daily】AI Finishes Your Email Tasks in Seconds｜Email Efficiency GPTs](https://github.com/user-attachments/assets/3c3fb426-d809-40f1-953e-c7eefb3f589d)](https://youtu.be/MfXPDFgx4UI)
+
+#### [Slide Materials Here](https://github.com/truthwave/mail-efficiency-gpts/blob/main/%E8%B3%87%E6%96%99/% E3%83%A1%E3%83%BC%E3%83%AB%E5%8A%B9%E7%8E%87%E5%8C%96GPTs.pdf)
+
+---
 
 ## 🧠 To Reclaim Your Future
 How much time do you lose to daily emails?
