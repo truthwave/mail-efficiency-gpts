@@ -14,7 +14,7 @@
 
 [![【30 Hours of Freedom Daily】AI Finishes Your Email Tasks in Seconds｜Email Efficiency GPTs](https://github.com/user-attachments/assets/3c3fb426-d809-40f1-953e-c7eefb3f589d)](https://youtu.be/MfXPDFgx4UI)
 
-#### [Slide Materials Here](https://github.com/truthwave/mail-efficiency-gpts/blob/main/English/Email%20Efficiency%20GPTs.pdf)
+#### [Slide Materials Here](https://github.com/truthwave/mail-efficiency-gpts/blob/main/English/Materials/Email%20Efficiency%20GPTs.pdf)
 
 ---
 
