@@ -40,6 +40,8 @@ It's a device to reclaim your focus and breathing room.
 
 ![Demo](https://github.com/truthwave/mail-efficiency-gpts/blob/main/English/Materials/Demo%20Movie.gif)
 
+### [Screenshot](https://github.com/truthwave/mail-efficiency-gpts/tree/main/English/Materials/Screenshot)
+
 ---
 
 ## ✨ Experience
