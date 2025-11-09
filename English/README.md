@@ -72,7 +72,7 @@ Want to reclaim “24 hours of free time per month” for your business?
 👉 **Use GPTs for email efficiency and make time your ally.** 
 >  ### [View the Coconala sales page](https://coconala.com/contents_market/pictures/cmf3ndqpl00xr6s0houn6itv9)
 
-> ### [[View the Coconala sales page](https://note.com/truth_wave/n/n61c5d3749404)
+> ### [View the note sales page](https://note.com/truth_wave/n/n61c5d3749404)
 
 > ### 👉[GPT Email Efficiency Template Collection (Optional PDF)](https://coconala.com/services/3850924)
 
