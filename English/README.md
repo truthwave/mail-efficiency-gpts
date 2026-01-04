@@ -66,13 +66,18 @@ It's a device to reclaim your focus and breathing room.
 
 ---
 
-## 🧭 Start Now
-Want to reclaim “24 hours of free time per month” for your business? 
+## Trying Out Truth Wave GPTs
 
-👉 **Use GPTs for email efficiency and make time your ally.** 
-> ### [View the note sales page](https://note.com/truth_wave/n/n61c5d3749404)
->
-> ### 👉[GPT Email Efficiency Template Collection (Optional PDF)](https://note.com/truth_wave/n/n4ea21c5c7b47)
+The content written in this blog is designed to be usable as a “working GPT.”
+
+- For those who want everything organized (GPT core + optional materials)
+  This plan bundles the GPT core with optional materials like checklists and templates.
+### [→ Truth Wave GPTs Set (GPT + Optional Materials Included)](https://note.com/truth_wave/n/nfaa7dce047bf)
+
+
+- For those who want to try just one thing first (GPT core only)
+  This is for those who want to use only the GPT core for this specific theme.
+### [→ Try this GPT as a standalone item (GPT core only)](https://note.com/truth_wave/n/n61c5d3749404)
 
 ---
 
