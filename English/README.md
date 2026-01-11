@@ -10,13 +10,12 @@
 
 ---
 
-## Project Overview
-
-### Watch on YouTube
-[![【30 Hours of Freedom Daily】AI Finishes Your Email Tasks in Seconds｜Email Efficiency GPTs](https://github.com/user-attachments/assets/3c3fb426-d809-40f1-953e-c7eefb3f589d)](https://youtu.be/MfXPDFgx4UI)
-
-#### [Slide Materials Here](https://github.com/truthwave/mail-efficiency-gpts/blob/main/English/Materials/Email%20Efficiency%20GPTs.pdf)
-
+## ✨ Experience
+- Transform lengthy emails into polished messages instantly.
+- Follow up after proposals.  
+- Handle customer service, sales follow-ups, and schedule coordination—all in under a minute.  
+- Reclaim 24 hours per month. Regain a full day of freedom.
+  
 ---
 
 ## 🧠 To Reclaim Your Future
@@ -42,14 +41,6 @@ It's a device to reclaim your focus and breathing room.
 ![Demo](https://github.com/truthwave/mail-efficiency-gpts/blob/main/English/Materials/Demo%20Movie.gif)
 
 ### [Screenshot](https://github.com/truthwave/mail-efficiency-gpts/tree/main/English/Materials/Screenshot)
-
----
-
-## ✨ Experience
-- Transform lengthy emails into polished messages instantly.
-- Follow up after proposals.  
-- Handle customer service, sales follow-ups, and schedule coordination—all in under a minute.  
-- Reclaim 24 hours per month. Regain a full day of freedom. 
 
 ---
 
