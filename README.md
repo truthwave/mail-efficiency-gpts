@@ -78,6 +78,4 @@
 
 ポートフォリオやAIツール開発に関する情報もぜひご覧ください！
 
-
-## お気軽にご連絡ください
-[📩 ご相談・お見積もりはこちら](mailto:realmadrid71214591@gmail.com)
+[noteはこちら](https://note.com/truth_wave/n/n25240f0b60f8)
