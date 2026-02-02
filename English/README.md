@@ -78,6 +78,4 @@ The content written in this blog is designed to be usable as a “working GPT.�
 
 Please also check out my portfolio and information on AI tool development!
 
-
-## Feel free to contact me
-[📩 Inquiries & Quotes](mailto:realmadrid71214591@gmail.com)
+[Here is the note](https://note.com/truth_wave/n/n25240f0b60f8)
